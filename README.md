@@ -1,6 +1,6 @@
 # U-Net Radio Deconvolution
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/unet-radio-deconv/blob/main/notebooks/01_setup_and_data.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abubakryagob/unet-radio-deconv/blob/main/notebooks/unet-radio-deconv.ipynb)
 
 Deep-learning-based PSF deconvolution for radio interferometric images, implemented
 as part of an ESO/SKAO-aligned research project.
