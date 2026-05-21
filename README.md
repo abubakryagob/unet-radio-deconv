@@ -40,6 +40,24 @@ Or run everything interactively in Google Colab (badge above).
 
 ## Repository layout
 
+unet-radio-deconv/
+├── data/
+│   ├── raw/                   # (empty — generated locally)
+│   └── processed/dataset.h5   # HDF5 image pairs
+├── models/
+│   ├── checkpoints/           # .pth files
+│   └── unet.py                # UNet class
+├── notebooks/
+│   └── 01_setup_and_data.ipynb
+├── scripts/
+│   ├── train.py
+│   └── predict.py
+├── results/
+│   └── figures/               # loss curves, comparison plots
+├── requirements.txt
+└── README.md
+
+
 ## Citation / acknowledgement
 
 If you use this code, please cite or acknowledge the ESO/SKAO-funded project it
