@@ -221,3 +221,8 @@ data/raw/
 *.h5
 *.hdf5
 models/checkpoints/*.pth
+data/processed/
+data/raw/
+*.h5
+*.hdf5
+models/checkpoints/*.pth
