@@ -176,5 +176,5 @@ production-quality ALMA reconstruction:
 
 ## Author
 
-Dr. Abubakr Y.A. Ibrahim — Institute of Space Sciences (ICE-CSIC), Barcelona
+Dr. Abubakr Y.A. Ibrahim, Barcelona, Spain
 [abubakryagob.com](https://www.abubakryagob.com)
